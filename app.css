@@ -1,0 +1,12 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.design-01 {
+    background: url('assets/img/05.png') rgba(49, 27, 146, 0.9); 
+    background-blend-mode: overlay;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
