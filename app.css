@@ -2,11 +2,6 @@ body {
     font-family: 'Quicksand', sans-serif !important;
 }
 
-.maxfertig {
-    font-family: 'Quicksand', sans-serif !important;
-    font-weight: 700;
-}
-
 .design-01 {
     background: url('assets/img/05.png') rgba(0, 123, 255, 0.9); 
     background-blend-mode: overlay;
@@ -14,4 +9,8 @@ body {
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+}
+
+.design-santos {
+    background: #196E49;
 }
