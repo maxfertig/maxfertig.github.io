@@ -1,5 +1,10 @@
 body {
-    font-family: 'Quicksand', sans-serif !important;
+    font-family: 'Montserrat', sans-serif !important;
+    background: black;
+}
+
+.bg-black {
+    background: black;
 }
 
 .design-01 {
@@ -12,5 +17,5 @@ body {
 }
 
 .design-santos {
-    background: #196E49;
+    background: #b9f6ca;
 }
