@@ -7,6 +7,15 @@ body {
     background: black;
 }
 
+.bg-water-green {
+    background: #b9f6ca;
+}
+
+.text-water-green {
+    color: #b9f6ca;
+}
+
+
 .design-01 {
     background: url('assets/img/05.png') rgba(0, 123, 255, 0.9); 
     background-blend-mode: overlay;
